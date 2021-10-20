@@ -5,7 +5,7 @@
  > Your author list below should include links to all members GitHub (remove existing author).
  
  > Authors: [Randy Zuniga](https://github.com/SpartanXLIV)
- > Authors: [Austin Haugland](https://github.com/MidnightHorse)\>
+ > Authors: [Austin Haugland](https://github.com/MidnightHorse)
  > Authors: \<[Jeffrey McDaniel](https://github.com/jmcda001)\>
  > Authors: \<[Jeffrey McDaniel](https://github.com/jmcda001)\>
  
