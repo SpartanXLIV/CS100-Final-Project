@@ -8,7 +8,7 @@
  > Authors: [Austin Haugland](https://github.com/MidnightHorse)
  > Authors: [Arman Seth](https://github.com/armanseth)
  > Authors: [Ubaldo Vasquez] (https://github.com/uvasqve)
- > Authors: \<[Jeffrey McDaniel](https://github.com/jmcda001)\> 
+
  > You will be forming a group of **FOUR** students and working on an interesting project. The project has 4 phases, each one with specific requirements. A list of proposed project ideas that have been successful in previous quarters is listed in the project specifications document on Canvas. You can select an idea from the list, start thinking about the features you will implement, what design patterns can help you implement them, and why. If you want to propose your own original idea, you will have to contact an instructor to discuss the project and obtain written permission before you submit your project proposal (Phase 1). Your project needs to implement at least two design patterns iteratively, which you will have to justify for later phases.The project work should be divided almost equally among team members and each member is expected to work on at least one design pattern (more than one partner may work on a pattern) and some of its test cases. You can of course help each other, but it needs to be clear who will be responsible for which patterns and for which features. Additionally, you are expected to follow Scrum patterns, specifically the use of a Scrum (Project) board, Sprints, and Scrum meetings. While Daily Scrums are not required we highly recommend you practice them too.
  
  > ## Expectations
@@ -21,8 +21,8 @@
  > * Each member of the group must actively participate in the Github Project board and reviewing commited code.
 > * All project phases are to be submitted to this GitHub repository. You should modify this README file to reflect the different phases of the project. In addition, you should regularly hold sprint meetings with your group. You will need to hold one check-in meeting with your lab TA in addition to the final demo.
 > 
-> 1) The user should be able to create tasks and add descriptions to them.
-> 2) The user should be able to set a PRIORITY on their task, which will sort the provided tasks by which is more important
+> # 1) The user should be able to create tasks and add descriptions to them.
+> # 2) The user should be able to set a PRIORITY on their task, which will sort the provided tasks by which is more important
 
 ## Project Description
  > Your project description should summarize the project you are proposing. Be sure to include:
@@ -35,9 +35,9 @@
  > 
  > You also need to set up an empty project board by choosing the  “Automated kanban with review” option on Github. You should also have a Backlog and In testing columns added.
  > 
- > We wanted to take on a project that seemed challenging and fun and that could actually benefit us as coders in our futures.
- > We plan to code mainly using C++
- > The input would obviously be the task itself, its description, and subcatagories. The output would be whatever would make sense for the user to want to display. 
+ > # We wanted to take on a project that seemed challenging and fun and that could actually benefit us as coders in our futures.
+ > # We plan to code mainly using C++
+ > # The input would obviously be the task itself, its description, and subcatagories. The output would be whatever would make sense for the user to want to display. 
  > 
  > ## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to:
