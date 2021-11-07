@@ -15,11 +15,14 @@
 >
 ## Project Description
  > We wanted to take on a project that seemed challenging and fun and that could actually benefit us as coders in our futures.
- > 
+ > ## What is it?
  > This project should tackle on the issue of organization specifically prioritization.
- > The application will consist of C++ in programming the software.
+ > ## What language are you using?
+ > The application will consist of C++ in programming the software in addition to the features added.
+ > ## How should the application function?
  > The input would be the task itself, its description, and subcatagories. The output would be whatever would make sense for the user to want to display. We'll be using the console to take in input and display output.
-> 
+## Phases
+>
 > ## Phase II
 > Sprint planning meeting
 > 
