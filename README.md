@@ -2,8 +2,11 @@
  > List of Authors that contributed to the project
  >
  > Authors: [Randy Zuniga](https://github.com/SpartanXLIV)
+ > 
  > Authors: [Austin Haugland](https://github.com/MidnightHorse)
+ > 
  > Authors: [Arman Seth](https://github.com/armanseth)
+ > 
  > Authors: [Ubaldo Vasquez] (https://github.com/uvasqve)
  >
  > ## Expectations **
