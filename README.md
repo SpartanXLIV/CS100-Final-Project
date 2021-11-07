@@ -17,7 +17,7 @@
  > We wanted to take on a project that seemed challenging and fun and that could actually benefit us as coders in our futures.
  > 
  > This project should tackle on the issue of organization specifically prioritization.
- > We plan to code mainly using C++
+ > The application will consist of C++ in programming the software.
  > The input would be the task itself, its description, and subcatagories. The output would be whatever would make sense for the user to want to display. We'll be using the console to take in input and display output.
 > 
 > ## Phase II
