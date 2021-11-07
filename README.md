@@ -13,7 +13,7 @@
 > 1) The user should be able to create tasks and add descriptions to them.
 > 2) The user should be able to set a PRIORITY on their task, which will sort the provided tasks by which is more important
 >
-## Project Description
+## Project Description **
  > We wanted to take on a project that seemed challenging and fun and that could actually benefit us as coders in our futures.
  > ## What is it?
  > This project should tackle on the issue of organization specifically prioritization.
@@ -28,4 +28,5 @@
 > 
 > ## Phase III
 > TODO before 11/16/21
- 
+>
+LEGEND: ** = Expecting revisions
