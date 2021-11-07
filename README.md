@@ -20,9 +20,9 @@
  > * Each member of the group **must** be committing code regularly and make sure their code is correctly attributed to them. We will be checking attributions to determine if there was equal contribution to the project.
  > * Each member of the group must actively participate in the Github Project board and reviewing commited code.
 > * All project phases are to be submitted to this GitHub repository. You should modify this README file to reflect the different phases of the project. In addition, you should regularly hold sprint meetings with your group. You will need to hold one check-in meeting with your lab TA in addition to the final demo.
-> 
-> # 1) The user should be able to create tasks and add descriptions to them.
-> # 2) The user should be able to set a PRIORITY on their task, which will sort the provided tasks by which is more important
+> ## What to expect **
+> 1) The user should be able to create tasks and add descriptions to them.
+> 2) The user should be able to set a PRIORITY on their task, which will sort the provided tasks by which is more important
 
 ## Project Description
  > Your project description should summarize the project you are proposing. Be sure to include:
@@ -34,7 +34,6 @@
  > This description should be in enough detail that the TA/instructor can determine the complexity of the project and if it is sufficient for the team members to complete in the time allotted. 
  > 
  > You also need to set up an empty project board by choosing the  “Automated kanban with review” option on Github. You should also have a Backlog and In testing columns added.
- > 
  > # We wanted to take on a project that seemed challenging and fun and that could actually benefit us as coders in our futures.
  > # We plan to code mainly using C++
  > # The input would be the task itself, its description, and subcatagories. The output would be whatever would make sense for the user to want to display. We'll be using the console to take in input and display output.
