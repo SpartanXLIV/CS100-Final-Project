@@ -7,7 +7,7 @@
  > 
  > Authors: [Arman Seth](https://github.com/armanseth)
  > 
- > Authors: [Ubaldo Vasquez] (https://github.com/uvasqve)
+ > Authors: [Ubaldo Vasquez](https://github.com/uvasqve)
  >
  > ## Expectations **
 > 1) The user should be able to create tasks and add descriptions to them.
