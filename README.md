@@ -9,7 +9,7 @@
  > 
  > Authors: [Ubaldo Vasquez](https://github.com/uvasqve)
  >
- > ## Expectations **
+## Expectations **
 > 1) The user should be able to create tasks and add descriptions to them.
 > 2) The user should be able to set a PRIORITY on their task, which will sort the provided tasks by which is more important
 >
