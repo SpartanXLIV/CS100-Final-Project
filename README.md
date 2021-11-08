@@ -17,6 +17,7 @@
  > We wanted to take on a project that seemed challenging and fun and that could actually benefit us as coders in our futures. This program will basically function the same way as a "reminder" app that are found on most smart devices. The user enters a task and can add a descritption and subcategories to the task. The user can also set a due date or a "priority" check that will list the tasks in order of most relevant.
  > ## Two potential Class Diagrams:
  > ![image](https://user-images.githubusercontent.com/91442424/140836094-34975e2e-809f-43b6-ba8c-10f0292d9614.png)
+ > 
  > Composite is top diagram, strategy is bottom diagram
 
  > ## What is it?
