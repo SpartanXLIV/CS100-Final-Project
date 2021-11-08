@@ -27,7 +27,8 @@
 > ## Two potential Class Diagrams:
 > ![image](https://user-images.githubusercontent.com/91442424/140836094-34975e2e-809f-43b6-ba8c-10f0292d9614.png)
 > 
-> Composite is top diagram, strategy is bottom diagram
+> Top Diagram: Diagram is a compostite pattern
+> Bottom Diagram: Diagram is a strategy pattern
 > 
 > Sprint planning meeting:
 > See on Kanban Board
