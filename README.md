@@ -14,7 +14,7 @@
 > 2) The user should be able to set a PRIORITY on their task, which will sort the provided tasks by which is more important
 >
 ## Project Description **
- > We wanted to take on a project that seemed challenging and fun and that could actually benefit us as coders in our futures. This program will basically function the same way as a "reminder" app that are found on most smart devices.
+ > We wanted to take on a project that seemed challenging and fun and that could actually benefit us as coders in our futures. This program will basically function the same way as a "reminder" app that are found on most smart devices. The user enters a task and can add a descritption and subcategories to the task. The user can also set a due date or a "priority" check that will list the tasks in order of most relevant.
  > ## What is it?
  > This project should tackle on the issue of organization specifically prioritization.
  > ## What language are you using?
