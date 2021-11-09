@@ -32,6 +32,7 @@
 > 
 > Sprint planning meeting:
 > See on Kanban Board
+> TL;DR we're coding together (Top-down stategy)
 > 
 > ## Phase III
 > TODO before 11/16/21
