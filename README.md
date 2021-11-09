@@ -38,4 +38,5 @@
 > 
 > ## Phase IV - Final Delivery
 > TODO before 11/30/21
-LEGEND: ** = Expecting revisions
+> 
+> LEGEND: ** = Expecting revisions
