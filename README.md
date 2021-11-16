@@ -35,7 +35,10 @@
 > TL;DR we're coding together (Top-down stategy)
 > 
 > ## Phase III
-> TODO before 11/16/21
+> ## Design Pattern?
+> For our project we will be utilzing a stategy pattern. We wanted to do this because we are more familiar with it. It also made the most sense since we will be making different types of tasks using the same interface. 
+> ## Scrum Meeting
+> We were not able to achieve our goals because we were too preoccupied with our lab. However, we have a plan and we have been meeting almost daily. 
 > 
 > ## Phase IV - Final Delivery
 > TODO before 11/30/21
