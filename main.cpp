@@ -12,7 +12,7 @@ void PrintMenu(const string userName)
     char menuOp = ' ';
     string taskID;
     string taskDesc;
-    string taskType;
+    string taskType = " ";
     int totalTasks = 0;
 
     int numNodes = 0;
@@ -53,15 +53,22 @@ void PrintMenu(const string userName)
 	if (menuOp == 'a')
         {
             // Prompt user for task information
-            cout << "ADD TASK" << endl;
-            cout << "Enter Task's unique ID \n(This will be needed to delete a task so make it something short)\n(ex. 1, 2, 3, or a, b c, etc:" << endl;
+            cout << "\nADD TASK" << endl;
+            cout << "Enter Task's unique ID: \n(This will be needed to delete a task so make it something short)\n(ex. 1, 2, 3, or a, b c, etc)" << endl;
             cin >> taskID;
+	    
+	    taskType = " ";
+	    cout << "\nWhat type of task will this be? \np - personal\nw - work\na - academic:" << endl;
+	    cin.ignore();
+	    getline(cin, taskType);
+	    while(taskType != "p" && taskType != "w" && taskType != "a")
+	    {
+	    	cout << "\nWhat type of task will this be? \np - personal\nw - work\na - academic:" << endl;
+            	//cin.ignore(); //removing this ignore fixed firsr char deletion error
+            	getline(cin, taskType);
+	    }
 
-	    cout << "What type of task will this be? \np - personal\nw - work\na - academic:" << endl;
-            cin.ignore(); //removing this ignore fixed firsr char deletion error
-            getline(cin, taskType);
-
-            cout << "Enter Task description:" << endl;
+            cout << "\nEnter Task description:" << endl;
             // cin.ignore();
 	    getline(cin, taskDesc);
 
@@ -88,7 +95,7 @@ void PrintMenu(const string userName)
         if (menuOp == 'r')
         {
             string currTaskID;
-            cout << "REMOVE TASK" << endl;
+            cout << "\nREMOVE TASK" << endl;
             cout << "Enter the task's unique ID:" << endl;
             cin >> currTaskID;
             
@@ -133,12 +140,12 @@ void PrintMenu(const string userName)
 
         if (menuOp == 'c')
         {
-            cout << "CHANGE PRIORITY OF TASK" << endl;
+            cout << "\nCHANGE PRIORITY OF TASK" << endl;
             cout << "Enter task's current position:" << endl;
             insertPosNode = nullptr;
             int count, taskPosition;
             cin >> taskPosition;
-            cout << "Enter new position for task:" << endl;
+            cout << "\nEnter new position for task:" << endl;
             int newPos;
             cin >> newPos;
             
@@ -203,9 +210,8 @@ void PrintMenu(const string userName)
 
         if (menuOp == 's')
         {
-            cout << "SORT TASK BY TASK TYPE" << endl;
-            cout << "Enter the task type \n(p,w, or a):" << endl;
-            cout << endl;
+            cout << "\nSORT TASK BY TASK TYPE" << endl;
+            cout << "Enter the task type \n(p,w, or a):" << endl << endl;
 
             string type;
             cin.ignore();
@@ -225,7 +231,7 @@ void PrintMenu(const string userName)
 
         if (menuOp == 't')
         {
-            cout << "TOTAL # OF TASKS TO COMPLETE" << endl;
+            cout << "\nTOTAL # OF TASKS TO COMPLETE" << endl;
             if (headNode == nullptr)  //base case incase head is empty
 	    {
                 cout << "You have no tasks to complete!" << endl;
@@ -245,7 +251,7 @@ void PrintMenu(const string userName)
 
         if (menuOp == 'o')
         {
-            cout << "ALL OF " << userName << "'s TASKS BY PRIORITY" << endl;
+            cout << "\nALL OF " << userName << "'s TASKS BY PRIORITY" << endl; //added \n for better UI
             if (headNode == nullptr)
             {
                 cout << "There are no tasks to complete!" << endl;
